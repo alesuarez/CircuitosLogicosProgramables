@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/CircuitosLogicosProgramables/sumador1b/simulacion
+Esum1b
+Z0 w1541101049
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dF:/CircuitosLogicosProgramables/sumador4b/simulacion
+Z4 8F:/CircuitosLogicosProgramables/sumador1b/sum_1b.vhd
+Z5 FF:/CircuitosLogicosProgramables/sumador1b/sum_1b.vhd
+l0
+L4
+VFQRjIaY1:5EaPXGD]]:^=3
+!s100 fCRSeMD=20eO==>B5?lY>2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1541370143
+!i10b 1
+Z8 !s108 1541370143.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CircuitosLogicosProgramables/sumador1b/sum_1b.vhd|
+Z10 !s107 F:/CircuitosLogicosProgramables/sumador1b/sum_1b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Asum1b_arq
+R1
+R2
+Z13 DEx4 work 5 sum1b 0 22 FQRjIaY1:5EaPXGD]]:^=3
+l15
+L14
+Z14 V]f`LTRUloI1A0aUNejZm41
+Z15 !s100 g7O[?m@TU[XamAlhekm>Q3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esum4b
+Z16 w1541369379
+R1
+R2
+R3
+Z17 8F:/CircuitosLogicosProgramables/sumador4b/sum4b.vhd
+Z18 FF:/CircuitosLogicosProgramables/sumador4b/sum4b.vhd
+l0
+L4
+V?3jge`zzZ0613JNzU:eZ23
+!s100 j95P9oblUn?:Fk`PkJj6M3
+R6
+32
+Z19 !s110 1541370142
+!i10b 1
+Z20 !s108 1541370142.000000
+Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CircuitosLogicosProgramables/sumador4b/sum4b.vhd|
+Z22 !s107 F:/CircuitosLogicosProgramables/sumador4b/sum4b.vhd|
+!i113 1
+R11
+R12
+Asum4b_arq
+R1
+R2
+DEx4 work 5 sum4b 0 22 ?3jge`zzZ0613JNzU:eZ23
+l26
+L14
+V;kTBJ7S;d<TWOP^[hG9KA2
+!s100 Ei8zdc5ed652PC9K<3NRK2
+R6
+32
+R19
+!i10b 1
+R20
+R21
+R22
+!i113 1
+R11
+R12
+Esum4b_tb
+Z23 w1541370137
+R1
+R2
+R3
+Z24 8F:/CircuitosLogicosProgramables/sumador4b/sum4b_tb.vhd
+Z25 FF:/CircuitosLogicosProgramables/sumador4b/sum4b_tb.vhd
+l0
+L4
+VGmVgaTTa?BI_75]>a`Qnd1
+!s100 ?;L=X01fDD[F1JJT]n5Qz2
+R6
+32
+R7
+!i10b 1
+R20
+Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CircuitosLogicosProgramables/sumador4b/sum4b_tb.vhd|
+Z27 !s107 F:/CircuitosLogicosProgramables/sumador4b/sum4b_tb.vhd|
+!i113 1
+R11
+R12
+Asum4b_tb_arq
+R1
+R2
+DEx4 work 8 sum4b_tb 0 22 GmVgaTTa?BI_75]>a`Qnd1
+l22
+L7
+Ve><?GzAV2f9?L>bSc7=cK2
+!s100 K_CnD5Y`AT]:Nn30`@XKF0
+R6
+32
+R7
+!i10b 1
+R20
+R26
+R27
+!i113 1
+R11
+R12

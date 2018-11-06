@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dF:/CircuitosLogicosProgramables/sumador4b/simulacion
+Esum1b
+Z0 w1541101049
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dF:/CircuitosLogicosProgramables/sumadorRestador4b/simulacion
+Z4 8F:/CircuitosLogicosProgramables/sumador1b/sum_1b.vhd
+Z5 FF:/CircuitosLogicosProgramables/sumador1b/sum_1b.vhd
+l0
+L4
+VFQRjIaY1:5EaPXGD]]:^=3
+!s100 fCRSeMD=20eO==>B5?lY>2
+Z6 OP;C;10.4a;61
+32
+Z7 !s110 1541452127
+!i10b 1
+Z8 !s108 1541452127.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CircuitosLogicosProgramables/sumador1b/sum_1b.vhd|
+Z10 !s107 F:/CircuitosLogicosProgramables/sumador1b/sum_1b.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+Asum1b_arq
+R1
+R2
+Z13 DEx4 work 5 sum1b 0 22 FQRjIaY1:5EaPXGD]]:^=3
+l15
+L14
+Z14 V]f`LTRUloI1A0aUNejZm41
+Z15 !s100 g7O[?m@TU[XamAlhekm>Q3
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Esumres4b
+Z16 w1541452115
+R1
+R2
+R3
+Z17 8F:/CircuitosLogicosProgramables/sumadorRestador4b/sumrest4b.vhd
+Z18 FF:/CircuitosLogicosProgramables/sumadorRestador4b/sumrest4b.vhd
+l0
+L4
+VA1;GRdNzSP<eLG0Y67fXA3
+!s100 egkeCP2V1HWJN=GCA[Z`I2
+R6
+32
+R7
+!i10b 1
+R8
+Z19 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CircuitosLogicosProgramables/sumadorRestador4b/sumrest4b.vhd|
+Z20 !s107 F:/CircuitosLogicosProgramables/sumadorRestador4b/sumrest4b.vhd|
+!i113 1
+R11
+R12
+Asumres4b_arq
+R1
+R2
+DEx4 work 8 sumres4b 0 22 A1;GRdNzSP<eLG0Y67fXA3
+l27
+L14
+V[oo:[1oSzm>0I^5TMadz=3
+!s100 Vdf48FIl@bN=K9iRjT<TR2
+R6
+32
+R7
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Esumres4b_tb
+Z21 w1541445987
+R1
+R2
+R3
+Z22 8F:/CircuitosLogicosProgramables/sumadorRestador4b/sumrest4b_tb.vhd
+Z23 FF:/CircuitosLogicosProgramables/sumadorRestador4b/sumrest4b_tb.vhd
+l0
+L4
+VPg`6U7^FRW4JTiV60]iT=2
+!s100 >6MY7BIe;C2864lJV[YKF2
+R6
+32
+R7
+!i10b 1
+R8
+Z24 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|F:/CircuitosLogicosProgramables/sumadorRestador4b/sumrest4b_tb.vhd|
+Z25 !s107 F:/CircuitosLogicosProgramables/sumadorRestador4b/sumrest4b_tb.vhd|
+!i113 1
+R11
+R12
+Asumres4b_tb_arq
+R1
+R2
+DEx4 work 11 sumres4b_tb 0 22 Pg`6U7^FRW4JTiV60]iT=2
+l22
+L7
+Vfgh7QI3bHZ]mLBlmhK@j[3
+!s100 CaQ@YHkS;TegNJF2jdNRf1
+R6
+32
+R7
+!i10b 1
+R8
+R24
+R25
+!i113 1
+R11
+R12
