@@ -5,8 +5,8 @@ entity mux is
 	port(
 		m1_i: in std_logic;
 		m2_i: in std_logic;
-		s_i: in std_logic;
-		o_o: out std_logic
+		s_i:  in std_logic;
+		o_o:  out std_logic
 	);
 end;
 
