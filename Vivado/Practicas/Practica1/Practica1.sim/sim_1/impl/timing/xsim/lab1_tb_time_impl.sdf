@@ -1,0 +1,19 @@
+(DELAYFILE 
+(SDFVERSION "3.0" )
+(DESIGN "lab1")
+(DATE "Tue Nov 13 22:01:42 2018")
+(VENDOR "XILINX")
+(PROGRAM "Vivado")
+(VERSION "2017.4")
+(DIVIDER /)
+(TIMESCALE 1ps)
+(CELL 
+  (CELLTYPE "RTL_INV")
+  (INSTANCE led_aux0_i)
+  (DELAY 
+    (ABSOLUTE 
+      (IOPATH I0 O (0.0:0.0:0.0) )
+    )
+  )
+)
+)

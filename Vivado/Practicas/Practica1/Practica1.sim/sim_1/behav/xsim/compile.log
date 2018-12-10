@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/CircuitosLogicosProgramables/Vivado/Practicas/Practica1/Practica1.srcs/sources_1/imports/Archivos para la práctica-20181113/lab1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lab1
+INFO: [VRFC 10-163] Analyzing VHDL file "F:/CircuitosLogicosProgramables/Vivado/Practicas/Practica1/Practica1.srcs/sim_1/imports/Archivos para la práctica-20181113/lab1_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity lab1_tb

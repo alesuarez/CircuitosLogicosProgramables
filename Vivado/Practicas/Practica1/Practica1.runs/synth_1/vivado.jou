@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:55:39 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Tue Nov 13 21:47:27 2018
+# Process ID: 4364
+# Current directory: F:/CircuitosLogicosProgramables/Vivado/Practicas/Practica1/Practica1.runs/synth_1
+# Command line: vivado.exe -log lab1.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lab1.tcl
+# Log file: F:/CircuitosLogicosProgramables/Vivado/Practicas/Practica1/Practica1.runs/synth_1/lab1.vds
+# Journal file: F:/CircuitosLogicosProgramables/Vivado/Practicas/Practica1/Practica1.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source lab1.tcl -notrace

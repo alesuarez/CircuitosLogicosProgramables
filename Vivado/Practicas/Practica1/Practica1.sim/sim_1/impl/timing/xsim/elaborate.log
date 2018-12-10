@@ -1,0 +1,9 @@
+Vivado Simulator 2017.4
+Copyright 1986-1999, 2001-2016 Xilinx, Inc. All Rights Reserved.
+Running: F:/Xilinx/Vivado/2017.4/bin/unwrapped/win64.o/xelab.exe -wto aff1080b76734ad585a26d0faaaaf78b --incr --debug typical --relax --mt 2 --maxdelay -L xil_defaultlib -L simprims_ver -L secureip --snapshot lab1_tb_time_impl -transport_int_delays -pulse_r 0 -pulse_int_r 0 -pulse_e 0 -pulse_int_e 0 xil_defaultlib.lab1_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+ERROR: [VRFC 10-2063] Module <RTL_INV> not found while processing module instance <led_aux0_i> [F:/CircuitosLogicosProgramables/Vivado/Practicas/Practica1/Practica1.sim/sim_1/impl/timing/xsim/lab1_tb_time_impl.v:30]
+ERROR: [VRFC 10-2063] Module <RTL_OR> not found while processing module instance <led_aux0_i__0> [F:/CircuitosLogicosProgramables/Vivado/Practicas/Practica1/Practica1.sim/sim_1/impl/timing/xsim/lab1_tb_time_impl.v:35]
+ERROR: [VRFC 10-2063] Module <RTL_AND0> not found while processing module instance <led_aux_1_i> [F:/CircuitosLogicosProgramables/Vivado/Practicas/Practica1/Practica1.sim/sim_1/impl/timing/xsim/lab1_tb_time_impl.v:41]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.
